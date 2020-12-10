@@ -3,13 +3,10 @@ module.exports = {
     title: `Harykesh Rajkumar`,
     author: {
       name: `Harykesh Rajkumar`,
-      summary: `Content curator at Riafy Technologies.`,
+      summary: ` | Content curator at `,
     },
     description: `This is where I write my stories.`,
     siteUrl: `http://blog.harykesh.me/`,
-    social: {
-      twitter: ``,
-    },
   },
   plugins: [
     `gatsby-plugin-netlify-cms`,
